@@ -1,0 +1,56 @@
+.desktop_index {
+position: relative;
+width: 1600px;
+height: 3828px;
+}
+
+.Rectangle {
+position: absolute;
+width: 1600px;
+height: 75px;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+background: rgb(34, 34, 34);
+}
+
+.Background {
+position: absolute;
+width: 1600px;
+height: 764px;
+left: 0%;
+right: 0%;
+top: 1.96%;
+bottom: 78.08%;
+background: rgb(241, 228, 230);
+}
+
+.Layer{
+position: absolute;
+width: 800.58px;
+height: 764px;
+left: 0;
+right: 799.42px;
+top: 1px;
+bottom: 2989px;
+background: rgb(241, 228, 230);
+ /*visibility: hidden; 
+background: rgb(229, 229, 229);*/
+}
+
+ .BRAND { 
+position:  relative;  
+width: 1300px;
+height: 93px;
+left: 2%;
+right: -2%;
+/* top: 392.05%; */
+bottom: -30%;
+font-family: Lato;
+font-size: 32px;
+font-weight: 700;
+/* line-height: 0px; */
+letter-spacing: 0%;
+text-align: right;
+}
